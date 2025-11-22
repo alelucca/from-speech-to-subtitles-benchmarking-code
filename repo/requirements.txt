@@ -1,0 +1,12 @@
+torch
+matplotlib
+pandas
+rapidfuzz
+subtitle-edit-rate
+jiwer
+bleurt-pytorch
+google-genai
+num2words
+roman
+spacy
+dotenv
